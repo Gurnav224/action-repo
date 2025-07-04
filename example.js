@@ -224,4 +224,3 @@ console.log(data.pusher.name);
 
 console.log(data.head_commit.id);
 
-console.table(data.ref.split("/").slice(-1)[0])
