@@ -4,4 +4,12 @@
 
 #check data update
 
-# add branch from filed when push the code
+
+
+# fix the missing from event details paragraph
+
+# Implment the frontend code
+
+# Payment received
+
+# Deployed the application on the render
