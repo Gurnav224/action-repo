@@ -4,8 +4,12 @@
 
 #check data update
 
+
+# fix the missing from event details paragraph
+
 # Implment the frontend code
 
 # Payment received
 
 # Deployed the application on the render
+
